@@ -1,2 +1,2 @@
 # BMI-Calculator
-Calculate your BMI
+Simple web page where you can calculate your BMI.
